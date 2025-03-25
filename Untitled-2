@@ -1,0 +1,16 @@
+header {
+position: relative;
+width: 30%;
+margin: auto;
+}
+
+div {
+position: relative;
+top: 100px;
+width: 30%;
+background-color: #c5399c;
+}
+
+#quote {
+    background-color: antiquewhite;
+}
