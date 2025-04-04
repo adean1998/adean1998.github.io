@@ -1,0 +1,35 @@
+
+.title {
+    color: green;
+    background-color: #d1ffe4;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold
+}
+
+body {
+    Color: green;
+    background-color: #d1ffe4;
+    font-family: 'courier new', courier, monospace
+}
+h3 {border: 5px solid#ffff8a;
+    color: green;
+text-align: center;
+font-size: large
+}
+table {
+    border: 3px solid #ffff8a
+}
+table {
+  border: 1px outset black;
+}
+th, td {
+  border: 1px outset black;
+  padding: 0.5rem; 
+}
+img {border: 5px solid #ffff8a;
+width: 50%;
+height: 50%;
+}
+#mainDiv {text-align: center}
+
+
